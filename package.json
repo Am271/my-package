@@ -1,6 +1,6 @@
 {
-	"name": "my-package",
-	"version": "0.1.0",
+	"name": "@am271/my-package",
+	"version": "1.0.0",
 	"main": "index.js",
 	"files": [
 		"index.js"
